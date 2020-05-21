@@ -7,7 +7,7 @@ https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Proce
 Implementation of digital image preprocessing techniques include,
 <ul>
 <li>Colour image processing</li>
-<li>Image Enhancement using histogram equaization and histogram matching</li>
+<li>Image Enhancement using histogram equalization and histogram matching</li>
 <li>Smoothing and sharpening filters</li>
 <li>Spatial to frequency domain conversions</li>
 <li>Application of filters in spatial domain</li>
