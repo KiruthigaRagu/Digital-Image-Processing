@@ -10,7 +10,6 @@ Implementation of digital image preprocessing techniques include,
 <li>Image Enhancement using histogram equalization and histogram matching</li>
 <li>Smoothing and sharpening filters</li>
 <li>Spatial to frequency domain conversions</li>
-<li>Application of filters in spatial domain</li>
 <li>Application of filters in frequency domain</li>
 <li>Image segmentation</li>
 <li>Feature Analysis</li>
