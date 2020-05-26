@@ -1,4 +1,11 @@
+#Import libraries
+import cv2
+from google.colab.patches import cv2_imshow
+import matplotlib.pyplot as plt
+import numpy as np
 
+#read image
+img=cv2.imread('image.jpg',1)
 
 #canny edge detection menthod
 edges = cv2.Canny(img,100,200)
